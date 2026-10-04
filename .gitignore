@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Production & Build outputs
+frontend/.next/
+frontend/out/
+frontend/build/
+.next/
+dist/
+build/
+*.tsbuildinfo
+
+# Python
+__pycache__/
+backend/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Local databases & secrets
+backend/*.db
+*.db
+backend/kshetraone.db
+.env
+.env.local
+frontend/.env.local
+backend/.env
+
+# Logs & temp
+*.log
+npm-debug.log*
+yarn-debug.log*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
