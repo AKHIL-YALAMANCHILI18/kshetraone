@@ -9,7 +9,7 @@
 
 ---
 
-## 🌾 Overview
+##  Overview
 
 Over 85% of Indian farmers manage small mixed-livelihood holdings with both crops and cattle. **KshetraOne** replaces fragmented records, paper notebooks, and informal middlemen with a single, mobile-responsive platform:
 
@@ -22,7 +22,7 @@ Over 85% of Indian farmers manage small mixed-livelihood holdings with both crop
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: Next.js 16.3.8 (App Router), React 19, TypeScript, Tailwind CSS, Lucide Icons
 - **Backend**: FastAPI (Python 3.14), Uvicorn ASGI Server, SQLAlchemy 2.0 ORM
@@ -32,7 +32,7 @@ Over 85% of Indian farmers manage small mixed-livelihood holdings with both crop
 
 ---
 
-## ⚙️ Environment Variables
+##  Environment Variables
 
 ### 1. Frontend (`frontend/.env.local`)
 
@@ -63,7 +63,7 @@ ACCESS_TOKEN_EXPIRE_MINUTES=10080
 
 ---
 
-## 🚀 Setup & Local Installation
+##  Setup & Local Installation
 
 ### Prerequisites
 - Node.js 18+ & npm
@@ -96,7 +96,7 @@ Open `http://localhost:3000` on your browser (or toggle mobile view at 390px / 4
 
 ---
 
-## 🧪 Test Cases & Sample Data
+##  Test Cases & Sample Data
 
 Run automated integration test suites:
 
